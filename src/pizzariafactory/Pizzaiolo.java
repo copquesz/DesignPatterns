@@ -1,0 +1,1 @@
+package pizzariafactory;/** *  * @author Lucas Copque - R.A: 816112862 * */public interface Pizzaiolo {	Pizza criarPizza();	Calzone criarCalzone();}

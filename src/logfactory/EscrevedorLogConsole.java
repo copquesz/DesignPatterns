@@ -1,0 +1,1 @@
+package logfactory;/** *  * @author Lucas Copque - R.A: 816112862 * */public class EscrevedorLogConsole extends EscrevedorLog {	protected FerramentaLog criarFerramentaLog() {		return new FerramentaLogConsole();	}}

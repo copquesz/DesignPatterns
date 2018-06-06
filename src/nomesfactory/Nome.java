@@ -1,0 +1,1 @@
+package nomesfactory;/** *  * @author Lucas Copque - R.A: 816112862 * */public class Nome {	private String nome;	private String sobrenome;	public Nome(String nome, String sobrenome) {		this.nome = nome;		this.sobrenome = sobrenome;	}	public String toString() {		return nome + " " + sobrenome;	}}
